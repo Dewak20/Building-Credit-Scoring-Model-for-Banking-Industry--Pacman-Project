@@ -1,2 +1,20 @@
-raw_data_path: E:\PACMAN\Credit Score\Data\Raw\data.csv
+raw_dataset_path: E:\PACMAN\Credit Score\Data\Raw\data.csv
 data_set_path: E:\PACMAN\Credit Score\Data\Output\data.pkl
+input_set_path: E:\PACMAN\Credit Score\Data\Output\input.pkl
+output_set_path: E:\PACMAN\Credit Score\Data\Output\output.pkl
+input_columns_path: E:\PACMAN\Credit Score\Data\Output\input_columns.pkl
+train_set_path:
+- E:\PACMAN\Credit Score\Data\Output\X_train.pkl
+- E:\PACMAN\Credit Score\Data\Output\y_train.pkl
+valid_set_path:
+- E:\PACMAN\Credit Score\Data\Output\X_valid.pkl
+- E:\PACMAN\Credit Score\Data\Output\y_valid.pkl
+test_set_path:
+- E:\PACMAN\Credit Score\Data\Output\X_test.pkl
+- E:\PACMAN\Credit Score\Data\Output\y_test.pkl
+
+# Preprocessing related
+index_column: 'Unnamed: 0'
+output_column: SeriousDlqin2yrs
+seed: 42
+test_size: 0.2
