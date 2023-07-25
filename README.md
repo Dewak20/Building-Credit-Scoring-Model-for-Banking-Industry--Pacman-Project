@@ -24,7 +24,13 @@ Predicting Default Probability
 - Data Preprocessing
 - Creating and Evaluating the Model
 - Model Prediction
-- 
+
+  
+## Data Science Tools to Use
+![Day 1  Live Class - Data Scientist Career Starter mp4_003663240](https://github.com/Dewak20/Building-Credit-Scoring-Model-for-Banking-Industry--Pacman-Project/assets/100184196/973febba-6a19-4f61-bf41-1deb177882e1)
+
+
+
 ## What is Credit?
 In the banking industry, credit refers to the provision of funds or resources by one party (the lender) to another party (the borrower) with the expectation that the borrowed funds will be repaid at a later date, usually with interest. It allows individuals and businesses to access financial resources when they need them, such as loans and credit cards.
 
