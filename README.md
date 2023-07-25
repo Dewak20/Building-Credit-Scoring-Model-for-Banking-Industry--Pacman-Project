@@ -5,6 +5,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![CreditScoreChart-1-e1524683918384](https://github.com/Dewak20/Building-Credit-Scoring-Model-for-Banking-Industry--Pacman-Project/assets/100184196/96725d11-4817-4ae9-8798-b53dc6d6e56e)
+
+
 #### The goal of the credit scoring model builder is to create a predictive model that assesses the default probability of borrowers in the banking industry. By predicting the likelihood of borrowers failing to repay their debts, lenders can make informed credit decisions and effectively manage risk. 
 
 
